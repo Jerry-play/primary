@@ -1,0 +1,16 @@
+/* 此样式表作用于整个页面的基本布局 */
+
+.address-email {
+	color:blue;
+	font-size:5em;
+}
+p {
+	font-size:6em;
+	color:black;
+}
+footer {
+	background-color:black;
+}
+.footer-word {
+	color:white;
+}

@@ -1,0 +1,11 @@
+/* 网站的链接样式表 */
+
+.mainpage a {
+    text-decoration-color: #0034ff;
+    /* 将链接的下划线设置为蓝色 */
+    color: chartreuse;
+}
+
+a{
+    text-decoration: auto;
+}
